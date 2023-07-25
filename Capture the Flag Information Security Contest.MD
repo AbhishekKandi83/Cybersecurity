@@ -14,7 +14,7 @@
 - Have fun: CTFs are a lot of fun! They are a great way to learn and to meet other people who are interested in cybersecurity.
 - If you are interested in participating in a CTF, there are a number of resources available online. Here are a few places to start:
 
-The CTFtime website: https://ctftime.org/
-The TryHackMe platform: https://tryhackme.com/
-The HackTheBox platform: https://www.hackthebox.eu/
-I hope this helps! Let me know if you have any other questions
+- The CTFtime website: https://ctftime.org/
+- The TryHackMe platform: https://tryhackme.com/
+- The HackTheBox platform: https://www.hackthebox.eu/
+- I hope this helps! Let me know if you have any other questions

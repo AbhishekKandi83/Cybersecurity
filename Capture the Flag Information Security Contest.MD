@@ -7,6 +7,8 @@
 
 - CTFs are a great way to learn about cybersecurity and to test your skills against other participants. They are also a lot of fun! If you are interested in learning more about CTFs, there are a number of resources available online.
 
+
+
 ## Here are some of the benefits of participating in CTFs:
 
 - Learn about cybersecurity: CTFs are a great way to learn about different aspects of cybersecurity, such as vulnerability assessment, penetration testing, and forensics.

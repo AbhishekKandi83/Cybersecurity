@@ -21,7 +21,7 @@ Be careful about what links you click on: If you receive an email or text messag
 
 ## Here are some additional resources that you may find helpful:
 
-The Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
-The National Institute of Standards and Technology (NIST): https://www.nist.gov/cyberframework
-The SANS Institute: https://www.sans.org/
-The International Information System Security Certification Consortium (ISC)²: https://www.isc2.org/
+- The Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
+- The National Institute of Standards and Technology (NIST): https://www.nist.gov/cyberframework
+- The SANS Institute: https://www.sans.org/
+- The International Information System Security Certification Consortium (ISC)²: https://www.isc2.org/

@@ -1,4 +1,4 @@
-## Capture the Flag Information Security Contest
+## Capture The Flag Information Security Contest
 - Capture the flag (CTF) is a cybersecurity competition that is used test and develop computer security skills. It was first developed in 1996 at DEF CON, the largest cybersecurity conference in the United States hosted annually in Las Vegas, Nevada.
 
 - In a CTF, participants are given a set of challenges that they must solve in order to collect "flags". Flags are typically text strings that are hidden in purposefully-vulnerable programs or websites. The goal of the competition is to collect as many flags as possible in a given amount of time.

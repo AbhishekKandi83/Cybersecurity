@@ -4,7 +4,7 @@
 
 - The goal of cybersecurity is to protect the confidentiality, integrity, and availability of information. Confidentiality means that only authorized people can access the information. Integrity means that the information cannot be modified without authorization. Availability means that the information is accessible when it is needed.
 
-- There are many different threats to cybersecurity, including:
+## There are many different threats to cybersecurity, including:
 
 - Malware: Malware is software that is designed to harm a computer system. Malware can take many forms, including viruses, worms, trojans, and ransomware.
 - Phishing: Phishing is a type of social engineering attack that involves sending emails or text messages that appear to be from a legitimate source. The goal of phishing is to trick the recipient into revealing personal information, such as their username and password.
